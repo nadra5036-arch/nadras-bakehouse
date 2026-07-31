@@ -17,6 +17,7 @@ st.set_page_config(
 
 st.markdown(
     """
+    <meta name="google-site-verification" content="aiU76i3xd60G1khefj18eeIUEOlaOp51tg0gN1S0h1U" />
     <style>
     .stApp { background-color: #FFFDF9; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .hero-banner {
